@@ -7,18 +7,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
-### Screenshot
-
-![](./Frontend Mentor - Recipe page.png)
+first frontend mentor challenge 
 
 ### Built with
 
@@ -37,6 +32,6 @@ used classes for colors but i should have used variables
 
 ## Author
 
-- Github - [Add your name here](https://github.com/AbdElnasser77)
+- Github - [AbdElnasser77](https://github.com/AbdElnasser77)
 - Frontend Mentor - [@A7med_3BNasser](https://www.frontendmentor.io/profile/AbdElnasser77)
 - Linkedin - [Ahmed AbdElnasser](https://www.linkedin.com/in/ahmed-abdelnasser-484159241/)
