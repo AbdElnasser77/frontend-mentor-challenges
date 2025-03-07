@@ -1,0 +1,12 @@
+@media screen and (max-width:992px) {
+    
+    .Profile{
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:600px){
+    .Profile{
+        width: 75%;
+    }
+}
