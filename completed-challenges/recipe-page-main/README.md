@@ -7,18 +7,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
-### Screenshot
-
-![Frontend Mentor](./Frontend Mentor - Recipe page.png)
+first frontend mentor challenge 
 
 ### Built with
 
