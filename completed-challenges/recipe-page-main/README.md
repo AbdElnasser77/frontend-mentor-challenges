@@ -32,6 +32,6 @@ used classes for colors but i should have used variables
 
 ## Author
 
-- Github - [Add your name here](https://github.com/AbdElnasser77)
+- Github - [AbdElnasser77](https://github.com/AbdElnasser77)
 - Frontend Mentor - [@A7med_3BNasser](https://www.frontendmentor.io/profile/AbdElnasser77)
 - Linkedin - [Ahmed AbdElnasser](https://www.linkedin.com/in/ahmed-abdelnasser-484159241/)
